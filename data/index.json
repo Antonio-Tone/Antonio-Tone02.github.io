@@ -1,0 +1,138 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "image_url": "https://i.postimg.cc/DyWr5b75/Screenshot-2023-07-05-115209.png",
+      "title": "1st Portfolio",
+      "description": "This was my first webpage I ever made, it was built using HTML5 and CSS",
+      "github_url": "https://github.com/Antonio-Tone/Profile.git",
+      "live_url": "https://lighthearted-marshmallow-2d6528.netlify.app",
+       "aos":"fade-up"
+    },
+    {
+      "id": 2,
+      "image_url": "https://i.postimg.cc/mrXLkkK1/Screenshot-2023-07-05-115016.png",
+      "title": "1st Ecommerce website",
+      "description": "This is my first Ecommerce website. It was built using HTML5 and CSS as well as with javascript.",
+      "github_url": "https://github.com/Antonio-Tone/e-commerce_pg.git",
+      "live_url": "https://arsites.netlify.app",
+      "aos":"fade-up"
+    },
+    {
+      "id": 3,
+      "image_url": "https://i.postimg.cc/9XNLb2HP/Screenshot-2023-07-05-114320.png",
+      "title": "BMI Calculator.",
+      "description": "Ths is where I had to make a BMI calculator using HTML5 and CSS and Javascript.",
+      "github_url": "https://github.com/Antonio-Tone/bmi.git",
+      "live_url": "https://willowy-druid-f2607c.netlify.app",
+      "aos":"fade-up"
+    },
+
+    {
+      "id": 4,
+      "image_url": "https://i.postimg.cc/FzDbYjgX/Screenshot-2023-07-05-114111.png",
+      "title": "Currency Converter",
+      "description": "This where I had to make a functional currency converter using JavaScript.",
+      "github_url": "https://github.com/Antonio-Tone/currency_conv.git",
+      "live_url": "https://64a539f21a0ac100b314de5a--astonishing-blancmange-346d33.netlify.app/",
+      "aos":"fade-up"
+    },
+
+    {
+      "id": 5,
+      "image_url": "https://i.postimg.cc/3rSDDJQh/Screenshot-2023-07-05-114646.png",
+      "title": "2nd Ecommerce website",
+      "description": "This project is where I had to made a functional ecommerce website that comes with an add to cart.",
+      "github_url": "https://github.com/Antonio-Tone/js_project.git",
+      "live_url": "https://tony-4ad9f6.netlify.app",
+      "aos":"fade-up"
+    },
+    {
+      "id": 6,
+      "image_url": "https://i.postimg.cc/2yVMGFjr/Screenshot-2023-07-05-121612.png",
+      "title": "J Cole website.",
+      "description": "This was a fun little project that I did on my own private time. I used the page to  practice my skills.",
+      "github_url": "https://github.com/Antonio-Tone/html.pg.git",
+      "live_url": "https://jcole.netlify.app",
+      "aos":"fade-up"
+    }
+  ],
+
+  "timelines": [
+    {
+      "id": "1",
+      "year": "2023-Current",
+      "title": "Life Choice",
+      "description": "I started at Life Choices Academy. I'm doing a Full Stack development course",
+      "class": "left animated animate__bounceInLeft",
+     "style":"animation-delay: 0.7s"
+    },
+    {
+      "id": "2",
+      "year": "2021-2023",
+      "title": "Stodels Garden centre",
+      "class": "right animated animate__animated animate__fadeInDownBig",
+      "description": "I started working at Stodels in 2021 as a general assistant and sales consultant. In the year 2022 i got promoted to a drivers position where I was responsible for doing deliveries for the company as well transporting staff from branch to branch.",
+      "style":"animation-delay: 1s"
+    },
+    {
+      "id": "3",
+      "year": "2015-2020",
+      "title": "Sarepta Secondary  School",
+      "description": "I graduated in 2020 with a bachelor degree.",
+      "class": "left animated animate__bounceInRight",
+      "style":"animation-delay: 1.5s"
+    }
+  ],
+
+  "testimonials": [
+    {
+        "id":1,
+        "image_url":"https://i.postimg.cc/VL53dhfv/C12-Luke-Evertson-1.jpg",
+         "title":"Colleague",
+         "name":"Luke Evertson",
+         "description": "Antonio is a very fun person to work with and has a great sense of humour.He Is hardworking and disciplined and could be a role model for many. I always love working with him cause he always see the biggger picture.",
+         "class": "active"
+    },
+    {
+        "id":2,
+        "image_url":"https://i.postimg.cc/7P5FLcY6/C12-Asiphe-Ndimlana-1.jpg",
+         "title":"Colleague",
+         "name":"Asiphe Ndimlana",
+         "description":"Antonio is very independent. Whenever he struggles with something he would rather first try and figure it out himself before asking for help. He is extremely kind and friendly and turns every person he meets for the first time into his friend.",
+         "class":""
+    },
+    {
+        "id":3,
+        "image_url":" https://i.postimg.cc/dVNRDW0s/C12-Taahirah-Ismail-1.jpg",
+         "title":"Colleague",
+         "name":"Taahirah Ismail",
+         "description":"He may be a man of few words, but Antonio's hard work and dedication always shine through in whatever he does. You can easily tell he appreciates every opportunity he is given and takes nothing for granted.",
+         "class":""
+    },
+    {
+        "id":4,
+        "image_url":"https://i.postimg.cc/DyHztfG2/IMG-9863-1.jpg",
+         "title":"Colleague",
+         "name":"Ethan Oliver",
+         "description":"I am thrilled to share my positive testimonial about my experience with Antonio. From the moment I first met him I was impressed. His dedication to excellence and drive to achieve was evident in every interaction I had with him.",
+         "class":""
+    },
+    {
+        "id":5,
+        "image_url":" https://i.postimg.cc/7YYT7gdf/Screenshot-2023-05-11-111514.png",
+         "title":"Colleague",
+         "name":"Deno Rautenbach",
+         "description":"Antonio is a very hardworking individual.He has improved a lot in both his coding aswell as in his problem solving skills. He is an extremely nice person to work with as he is very friendly",
+         "class":""
+    },
+    {
+        "id":6,
+        "image_url":"https://i.postimg.cc/mk1J6c6M/Screenshot-2023-07-05-161952.png",
+         "title":"Intern",
+         "name":"Maxwill Isaacs",
+         "description":"Antonio is an exceptionally hard worker and always making time to assist anyone who is in need. Also goes the extra-mile when doing anything that has to be done. He is also very confident in his capabilities and never fails to get the Job done.",
+         "class":""
+    }
+]
+}
